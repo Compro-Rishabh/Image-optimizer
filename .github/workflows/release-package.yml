@@ -1,4 +1,4 @@
-name: image-optimizer
+name: compro-rishabh/image-optimizer
 
 on:
   release:

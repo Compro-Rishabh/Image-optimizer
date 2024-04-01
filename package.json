@@ -1,6 +1,6 @@
 {
   "name": "@compro-rishabh/image-optimizer",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,7 +16,7 @@
   "devDependencies": {
     "@types/node": "^20.11.30"
   },
-  "repository": "@Compro-Rishabh/Image-optimizer",
+  "repository": "@Compro-Rishabh/image-optimizer",
   "exports":{
     ".": "./main.ts",
     "./sub/image-optimizer": "./image-optimizer.ts"
