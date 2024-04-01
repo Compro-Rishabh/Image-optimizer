@@ -1,0 +1,24 @@
+{
+  "name": "@compro-rishabh/image-optimizer",
+  "version": "1.0.4",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "sharp": "^0.33.2",
+    "typescript": "^5.4.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.30"
+  },
+  "repository": "@Compro-Rishabh/Image-optimizer",
+  "exports":{
+    ".": "./main.ts",
+    "./sub/image-optimizer": "./image-optimizer.ts"
+  }
+}
